@@ -1,4 +1,4 @@
-# magazine
+# Egyptian Magazine
 
 A new Flutter project.
 
